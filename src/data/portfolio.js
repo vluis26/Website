@@ -7,10 +7,10 @@ export default [
     },
 
     {
-        title: "Expense Tracker",
-        imgUrl: "/Website/assets/tracker.jpeg",
-        description: "A way to have financial management.",
-        stack: ["MongoDB", "Express.js","React","Node.js"],
+        title: "ChapelEats",
+        imgUrl: "/Website/assets/ChapelEatsDash.png",
+        description: "AI Meal Generator for UNC Students",
+        stack: ["Python", "React","MongoDB"],
     },
 
     // {

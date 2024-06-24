@@ -19,7 +19,7 @@ function Contact(){
                 <div className='p-4 flex justify-center items-center'>
                     <h1 className='inline-block px-9 py-2 border-2 border-stone-900 rounded-md overflow-hidden'>
                         <FaLinkedin className='text-2xl w-full'/> <a 
-                            href='https://www.linkedin.com/in/luis-villa-2a4386213'
+                            href='https://www.linkedin.com/in/luis-villa03'
                             target="_blank"
                             className='text-2xl text-blue-600 hover:underline underline-offset-2 decoration-2'
                             rel='noreferrer noopener'
